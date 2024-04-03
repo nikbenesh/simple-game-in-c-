@@ -2,6 +2,7 @@
 
 ## How to start the game: 
 Run the following lines in your terminal: 
+
 `make`
 
 `./Main`
